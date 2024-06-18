@@ -1,4 +1,4 @@
-# výsledkem bude True
+# výsledkem bude True bfgh
 print("M" in "Matous")
 # tady taky True
 print("@" not in "Matous")
@@ -6,3 +6,6 @@ print("@" not in "Matous")
 print("@" in "Matous")
 
 print(6 > 4)
+
+# testing fgpdsinfgap
+# test GitHubu
